@@ -1,0 +1,14 @@
+C:\Users\ablopez\source\repos\ConsoleApp2\Borra2\bin\Debug\net6.0\Borra2.exe
+C:\Users\ablopez\source\repos\ConsoleApp2\Borra2\bin\Debug\net6.0\Borra2.deps.json
+C:\Users\ablopez\source\repos\ConsoleApp2\Borra2\bin\Debug\net6.0\Borra2.runtimeconfig.json
+C:\Users\ablopez\source\repos\ConsoleApp2\Borra2\bin\Debug\net6.0\Borra2.dll
+C:\Users\ablopez\source\repos\ConsoleApp2\Borra2\bin\Debug\net6.0\Borra2.pdb
+C:\Users\ablopez\source\repos\ConsoleApp2\Borra2\obj\Debug\net6.0\Borra2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ablopez\source\repos\ConsoleApp2\Borra2\obj\Debug\net6.0\Borra2.AssemblyInfoInputs.cache
+C:\Users\ablopez\source\repos\ConsoleApp2\Borra2\obj\Debug\net6.0\Borra2.AssemblyInfo.cs
+C:\Users\ablopez\source\repos\ConsoleApp2\Borra2\obj\Debug\net6.0\Borra2.csproj.CoreCompileInputs.cache
+C:\Users\ablopez\source\repos\ConsoleApp2\Borra2\obj\Debug\net6.0\Borra2.dll
+C:\Users\ablopez\source\repos\ConsoleApp2\Borra2\obj\Debug\net6.0\refint\Borra2.dll
+C:\Users\ablopez\source\repos\ConsoleApp2\Borra2\obj\Debug\net6.0\Borra2.pdb
+C:\Users\ablopez\source\repos\ConsoleApp2\Borra2\obj\Debug\net6.0\Borra2.genruntimeconfig.cache
+C:\Users\ablopez\source\repos\ConsoleApp2\Borra2\obj\Debug\net6.0\ref\Borra2.dll

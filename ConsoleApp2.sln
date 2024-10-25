@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{6B419466-0FAB-4E79-B772-09C6FB9C135B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Borra2", "Borra2\Borra2.csproj", "{E393D20C-F8D1-400A-84B0-4B721B2F82AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Borra3", "Borra3\Borra3.csproj", "{9334F8B9-F4B8-479C-B96A-D11A0331507C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B419466-0FAB-4E79-B772-09C6FB9C135B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B419466-0FAB-4E79-B772-09C6FB9C135B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B419466-0FAB-4E79-B772-09C6FB9C135B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B419466-0FAB-4E79-B772-09C6FB9C135B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E393D20C-F8D1-400A-84B0-4B721B2F82AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E393D20C-F8D1-400A-84B0-4B721B2F82AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E393D20C-F8D1-400A-84B0-4B721B2F82AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E393D20C-F8D1-400A-84B0-4B721B2F82AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9334F8B9-F4B8-479C-B96A-D11A0331507C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9334F8B9-F4B8-479C-B96A-D11A0331507C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9334F8B9-F4B8-479C-B96A-D11A0331507C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9334F8B9-F4B8-479C-B96A-D11A0331507C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E6C4EEC-7BCA-49F1-9F72-90AF3A06AE33}
+	EndGlobalSection
+EndGlobal
